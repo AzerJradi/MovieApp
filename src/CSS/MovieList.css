@@ -1,0 +1,10 @@
+/* Styles for MovieCard container */
+.MovieCard {
+    width: 100%; /* Set the width to 100% of its container */
+    padding-top: 100px; /* Add padding to the top */
+    display: flex !important; /* Use flexbox and override any existing display property with !important */
+    justify-content: space-around; /* Distribute child elements with space around them horizontally */
+    flex-wrap: wrap; /* Allow flex container to wrap its children to the next line if needed */
+    align-items: center; /* Align children vertically at the center of the container */
+    background: #141414; /* Set the background color to a dark shade */
+}

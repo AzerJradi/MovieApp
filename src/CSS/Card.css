@@ -1,0 +1,49 @@
+/* Define styles for the card element */
+.card {
+    border: 2px solid white; /* Border with white color */
+}
+/* Styles for the image inside the card */
+img {
+    width: 300px; /* Set image width */
+    height: 500px; /* Set image height */
+    object-fit: fill; /* Adjust how the image fills its container */
+    border-top-left-radius: 6px; /* Apply border radius to top-left corner */
+    border-bottom-left-radius: 6px; /* Apply border radius to bottom-left corner */
+}
+/* Styles for the right part of the card */
+.cardPart {
+    background-color: white; /* Set background color to white */
+    font-size: 18px; /* Set font size */
+    font-family: Arial, Helvetica, sans-serif; /* Set font family */
+    width: 300px; /* Set width */
+    height: 500px; /* Set height */
+    margin-top: -500px; /* Move the element up by 500px */
+    margin-left: 300px; /* Move the element to the right by 300px */
+    padding: 20px; /* Add padding */
+    border-top-right-radius: 6px; /* Apply border radius to top-right corner */
+    border-bottom-right-radius: 6px; /* Apply border radius to bottom-right corner */
+}
+/* Styles for the title within the card */
+.title {
+    font-size: 28px; /* Set title font size */
+}
+/* Additional styles for the card element */
+.card {
+    margin-bottom: 50px; /* Add margin to the bottom of the card */
+}
+* Styles for the rate element */
+.rate {
+    margin-top: -20px; /* Move the rate element up by 20px */
+    margin-bottom: -5px; /* Move the rate element down by 5px */
+}
+/* Styles for the button with class btnn */
+.btnn {
+    color: red; /* Set button text color to red */
+    text-decoration: none; /* Remove default text decoration */
+}
+/* Hover styles for the button */
+.btnn:hover {
+    color: #C70039; /* Change text color on hover to a specific color */
+    text-decoration: underline; /* Underline text on hover */
+    cursor: pointer; /* Change cursor to pointer on hover */
+}

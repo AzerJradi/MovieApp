@@ -1,0 +1,93 @@
+/* Applies styles to all elements */
+.all {
+    background: #141414;
+    margin-bottom: -50px;
+}
+
+/* Styles for the input container */
+.input {
+    width: 40%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-left: 30%;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    padding-left: 5%;
+    align-items: center;
+    background-color: #CC0F20;
+    border: 2px solid black;
+    border-radius: 20px;
+    /* Duplicate property removed */
+}
+
+/* Styles for the plus button */
+.plus {
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 20px;
+    width: 5%;
+    padding-bottom: 5px;
+    height: 40px;
+    font-size: 20px;
+    margin-left: 47%;
+    margin-bottom: 10px;
+}
+
+/* Hover effect for the plus button */
+:hover .plus {
+    background-color: black;
+    border: 2px solid white;
+    color: white;
+}
+
+/* Styles for input elements */
+input {
+    width: 90%;
+    height: 40px;
+    margin-bottom: 10px;
+    border: 2px solid black;
+    border-radius: 8px;
+    padding: 20px;
+    /* Duplicate property removed */
+}
+
+/* Styles for textarea elements */
+textarea {
+    width: 90%;
+    height: 80px;
+    margin-bottom: 10px;
+    border: 2px solid black;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+/* Styles for title class */
+.title {
+    font-size: 12px;
+}
+
+/* Styles for genre ID */
+#genre {
+    height: 40px;
+    border: 2px solid black;
+    border-radius: 8px;
+}
+
+/* Styles for AddBtn class */
+.AddBtn {
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 20px;
+    width: 25%;
+    height: 40px;
+    font-size: 20px;
+    margin-left: 10%;
+}
+
+/* Hover effect for the AddBtn class */
+:hover .AddBtn {
+    background-color: black;
+    border: 2px solid white;
+    color: white;
+}

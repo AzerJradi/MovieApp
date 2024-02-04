@@ -1,0 +1,40 @@
+/* Styles for the navigation bar */
+.NavBarCss {
+    font-size: 22px;
+    height: 70px;
+    background: #0B0B0B; /* Background color for the navigation bar */
+}
+/* Styles for elements with class 'keyColor' */
+.keyColor {
+    color: #CC0F20; /* Text color with a key color */
+}
+/* Styles for the search container */
+.searchPlace {
+    margin-left: 30%;
+    margin-top: 10px;
+    margin-right: 10%;
+}
+/* Styles for 'The-range' class */
+.The-range {
+    width: 10%;
+    margin-left: 5%;
+    color: #CC0F20; /* Text color for 'The-range' class */
+}
+/* Styles for 'elRange' class */
+.elRange {
+    margin-left: -20px;
+    margin-top: 15px;
+}
+/* Styles for 'ElRangeCursor' class */
+.ElRangeCursor {
+    margin-left: 50px;
+    position: relative;
+    top: -85px;
+}
+/* Styles for 'valueChoosen' class */
+.valueChoosen {
+    margin-left: 210px;
+    position: relative;
+    top: -32px;
+    color: #F5C518; /* Text color for 'valueChoosen' class */
+}
