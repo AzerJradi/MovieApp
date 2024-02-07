@@ -1,6 +1,7 @@
 // Importing necessary components from react-bootstrap library and custom CSS file
 import { Button, Col, Form, Nav, Row } from 'react-bootstrap'
 import '../CSS/MYNav.css'
+import { Link } from 'react-router-dom'
 
 // Functional component MyNav that receives props setTitleValue, rangeValue, and setRangeValue
 function MyNav({ setTitleValue, rangeValue, setRangeValue }) {
@@ -14,7 +15,7 @@ function MyNav({ setTitleValue, rangeValue, setRangeValue }) {
             <Nav.Item>
             </Nav.Item>
             {/* Navigation items with links and custom styling */}
-            <Nav.Item><Nav.Link className='keyColor' href="/home">Home</Nav.Link></Nav.Item>
+            <Nav.Item><Nav.Link className='keyColor' > <Link to ='home'>Home</Link> </Nav.Link></Nav.Item>
             <Nav.Item><Nav.Link className='keyColor' eventKey="link-1">Link</Nav.Link></Nav.Item>
           
           {/* Form for inline search with input field and submit button */}

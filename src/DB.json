@@ -1,4 +1,16 @@
-[ 
+[
+    {
+    "id": 36,
+    "title": "",
+    "image":"",
+    "rate": 0,
+    "decr": "",
+    "stream": "",
+    "lang": "",
+    "genre": "",
+    "trailer": "",
+    "download": ""
+    }, 
     { 
     "id": 29 ,
     "title": "LIONEL MESSI: DESTINY",
@@ -8,6 +20,7 @@
     "stream": "",
     "lang": "EN",
     "genre": "action",
+    "trailer": "https://www.youtube.com/embed/4Jlt7937Pnw?si=mPUjW3hj34UNcIXc",
     "download": ""
     },
     {
@@ -19,6 +32,7 @@
     "stream": "",
     "lang": "EN",
     "genre": "Drama",
+    "trailer": "https://www.youtube.com/embed/sY1S34973zA?si=FaIpi8p9tr9u3vHs",
     "download": ""
     },
     {
@@ -30,9 +44,10 @@
     "stream": "",
     "lang": "EN",
     "genre": "comedy",
+    "trailer": "https://www.youtube.com/embed/Fmih-zWIjGY?si=X9GuOMgJO_WCYmom",
     "download": ""
-        },    
-        {
+    },    
+    {
     "id": 18,
     "title": "THE DARK KNIGHT",
     "image":"https://i.pinimg.com/564x/5f/fe/79/5ffe79003530da912a82acac80be1426.jpg",
@@ -41,9 +56,10 @@
     "stream": "",
     "lang": "EN",
     "genre": "action",
+    "trailer": "https://www.youtube.com/embed/EXeTwQWrcwY?si=6AQSd5elLbK8xwIn",
     "download": ""
-            },   
-            {
+    },   
+    {
     "id": 19,
     "title": "AVENGERS ENDGAME",
     "image":"https://i.pinimg.com/564x/cc/f9/6a/ccf96acf55509bdc961b63252644625a.jpg",
@@ -52,9 +68,10 @@
     "stream": "",
     "lang": "EN",
     "genre": "action",
+    "trailer": "https://www.youtube.com/embed/TcMBFSGVi1c?si=6fDnYPgheqDiMHYC",
     "download": ""
-                },           
-                {
+    },           
+    {
     "id": 20,
     "title": "The SHAWSHANK REDEMPTION",
     "image":"https://i.pinimg.com/564x/ec/3d/52/ec3d52daa56bd9c2abf0d82952d3b8ad.jpg",
@@ -63,9 +80,10 @@
     "stream": "",
     "lang": "EN",
     "genre": "Drama",
+    "trailer": "https://www.youtube.com/embed/PLl99DlL6b4?si=j7r-IXvx9GOJF-uo",
     "download": ""
-                    },
-                    {
+    },
+    {
     "id": 21,
     "title": "FIGHT CLUB",
     "image":"https://i.pinimg.com/736x/45/b1/fe/45b1fe268d7f2c9bae25646c092a8556.jpg",
@@ -74,6 +92,7 @@
     "stream": "",
     "lang": "EN",
     "genre": "Drama",
+    "trailer": "https://www.youtube.com/embed/SUXWAEX2jlg?si=md1ziyE6x7xYsVSR",
     "download": ""
     },
     {
@@ -85,17 +104,19 @@
     "stream": "",
     "lang": "EN",
     "genre": "Drama",
+    "trailer": "https://www.youtube.com/embed/zSWdZVtXT7E?si=J1nB50-bjdLtPli6",
     "download": ""
     },
     {
     "id": 22,
-    "title": "SPIRETED AWAY",
+    "title": "SPIRITED AWAY",
     "image":"https://i.pinimg.com/564x/7b/20/60/7b2060adf9cb7dd2613aefced8528e77.jpg",
     "rate": 8.6,
     "decr": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches and spirits, a world where humans are changed into beasts.",
     "stream": "",
     "lang": "EN",
-    "genre": "Drama",
+    "genre": "Anime",
+    "trailer": "https://www.youtube.com/embed/ByXuk9QqQkk?si=NeW88cicmyk8Q_Ar",
     "download": ""
     },
     {
@@ -107,6 +128,7 @@
     "stream": "",
     "lang": "EN",
     "genre": "Drama",
+    "trailer": "https://www.youtube.com/embed/Bg7epsq0OIQ?si=rTvGT1H0bBlF7AkC",
     "download": ""
     },
     {
@@ -118,6 +140,7 @@
     "stream": "",
     "lang": "EN",
     "genre": "Drama",
+    "trailer": "https://www.youtube.com/embed/BFwGqLa_oAo?si=MBVqPDNim8ClfFQ-",
     "download": ""
     },
     {
@@ -129,6 +152,7 @@
     "stream": "",
     "lang": "EN",
     "genre": "comedy",
+    "trailer": "https://www.youtube.com/embed/iszwuX1AK6A?si=xUYZUy6z_W8Vs74E",
     "download": ""
     },
     {
@@ -140,6 +164,7 @@
     "stream": "",
     "lang": "EN",
     "genre": "Drama",
+    "trailer": "https://www.youtube.com/embed/7pQQHnqBa2E?si=84RUr4ZlFjhcmHvu",
     "download": ""
     },  
     {
@@ -151,6 +176,7 @@
     "stream": "",
     "lang": "EN",
     "genre": "action",
+    "trailer": "https://www.youtube.com/embed/KvbE5ang4Nk?si=2_pcbwjTlxOxMehE",
     "download": ""
     },
     {
@@ -162,6 +188,7 @@
     "stream": "",
     "lang": "EN",
     "genre": "Drama",
+    "trailer": "https://www.youtube.com/embed/kVrqfYjkTdQ?si=s5obaySPr21J0NxQ",
     "download": ""
     },  
     {
@@ -173,6 +200,7 @@
     "stream": "",
     "lang": "EN",
     "genre": "Drama",
+    "trailer": "https://www.youtube.com/embed/T5IligQP7Fo?si=DHpc4LUQrax9QFLf",
     "download": ""
     },     
     {
@@ -184,6 +212,7 @@
     "stream": "",
     "lang": "EN",
     "genre": "comedy",
+    "trailer": "https://www.youtube.com/embed/2QKg5SZ_35I?si=1SzONaebOLG-VoCt",
     "download": ""
     },
         {
@@ -195,6 +224,7 @@
     "stream": "",
     "lang": "EN",
     "genre": "comedy",
+    "trailer": "https://www.youtube.com/embed/FHVMn_W6fjg?si=miD1TUzZKXqsGluj",
     "download": ""
     },
         {
@@ -206,6 +236,7 @@
     "stream": "",
     "lang": "EN",
     "genre": "comedy",
+    "trailer": "https://www.youtube.com/embed/kAW6w9aNSaY?si=dFbsvE2Ue_8t9w7l",
     "download": ""
     },
     {
@@ -217,19 +248,93 @@
     "stream": "",
     "lang": "EN",
     "genre": "action",
+    "trailer": "https://www.youtube.com/embed/D9YZw_X5UzQ?si=JioG1H4xVer7tqe9",
     "download": ""
     },
     {
-        "id": 34,
-        "title": "عاد لينتقم",
-        "image":"https://m.media-amazon.com/images/M/MV5BMGIzNTcwNWUtM2JmMC00ZWMxLWE5NWYtOWZhNzk0YTczZmRmXkEyXkFqcGdeQXVyMzI4MTk3MTY@._V1_QL75_UX190_CR0,1,190,281_.jpg",
-        "rate": 5.0,
-        "decr": ". ينتقل الطبيب، الذي فقد زوجته وابنته في حادث سيارة، إلى منزل جديد حيث يبدأ بأحداث غريبة؛ وبعد التحقيق اكتشف أن المنزل مسكون بروح طفل مقتول.",
-        "stream": "",
-        "lang": "AR",
-        "genre": "Drama",
-        "download": ""
-        },
+    "id": 34,
+    "title": "عاد لينتقم",
+    "image":"https://m.media-amazon.com/images/M/MV5BMGIzNTcwNWUtM2JmMC00ZWMxLWE5NWYtOWZhNzk0YTczZmRmXkEyXkFqcGdeQXVyMzI4MTk3MTY@._V1_QL75_UX190_CR0,1,190,281_.jpg",
+    "rate": 5.0,
+    "decr": ". ينتقل الطبيب، الذي فقد زوجته وابنته في حادث سيارة، إلى منزل جديد حيث يبدأ بأحداث غريبة؛ وبعد التحقيق اكتشف أن المنزل مسكون بروح طفل مقتول.",
+    "stream": "",
+    "lang": "AR",
+    "genre": "Drama",
+    "trailer": "",
+    "download": ""
+    },
+    {
+    "id": 36,
+    "title": "Spider-Man: Across the Spider-Verse",
+    "image":"https://i.pinimg.com/564x/89/57/ab/8957ab1a620d347c3ecd001cef5a3547.jpg",
+    "rate": 8.6,
+    "decr": "Miles Morales catapults across the multiverse, where he encounters a team of Spider-People charged with protecting its very existence. When the heroes clash on how to handle a new threat, Miles must redefine what it means to be a hero.",
+    "stream": "",
+    "lang": "EN",
+    "genre": "Anime",
+    "trailer": "https://www.youtube.com/embed/cqGjhVJWtEg?si=m1qvpBLSJxINv-vm",
+    "download": ""
+    },
+    {
+    "id": 37,
+    "title": "The First Slam Dunk",
+    "image":"https://i.pinimg.com/564x/00/a9/75/00a9757bf91d1c47f7d935f1dfabd9f8.jpg",
+    "rate": 8.3,
+    "decr": "Follows 17-year-old Ryota Miyagi, who struggles to accomplish his late elder brother's dream of becoming a basketball star.",
+    "stream": "",
+    "lang": "JPN",
+    "genre": "Anime",
+    "trailer": "https://www.youtube.com/embed/l4nP-Zm9YAs?si=WFbEu1rHbC5LSOAW",
+    "download": ""
+    },    
+    {
+    "id": 38,
+    "title": "Mugen Ressha-hen",
+    "image":"https://i.pinimg.com/564x/f3/72/80/f372809f17f42c85e4ae1b794a8dafee.jpg",
+    "rate": 8.2,
+    "decr": "After his family was brutally murdered and his sister turned into a demon, Tanjiro Kamado's journey as a demon slayer began. Tanjiro and his comrades embark on a new mission aboard the Mugen Train, on track to despair.",
+    "stream": "",
+    "lang": "JPN",
+    "genre": "Anime",
+    "trailer": "https://www.youtube.com/embed/sAU6Istwz6c?si=WdLM3ecRw-Xu1Z7T",
+    "download": ""
+    },  
+    {
+    "id": 39,
+    "title": "Gintama: The Final",
+    "image":"https://i.pinimg.com/564x/80/4f/41/804f4190dc6ed912b6330147f758eb2f.jpg",
+    "rate": 8.5,
+    "decr": "Gintoki Sakata and his allies reunite to confront the remnants of the Tendoshuu and prevent the detonation of Altana, risking the safety of Edo and the world, as they fulfill the wishes of their teacher and face the looming return of Utsuro.",
+    "stream": "",
+    "lang": "JPN",
+    "genre": "Anime",
+    "trailer": "https://www.youtube.com/embed/bZYysREKnm4?si=dWNFW8L_lueDUJud",
+    "download": ""
+    }, 
+    {
+    "id": 40,
+    "title": "The Phantom of Baker Street",
+    "image":"https://i.pinimg.com/564x/34/b5/bc/34b5bc0479ce12a4a0e91f4f3c9868c5.jpg",
+    "rate": 7.8,
+    "decr": "Conan and his friends were invited to the premier of an new virtual computer game. But someone programmed the game, that if they can't answer the riddle in the game, they all have to die.",
+    "stream": "",
+    "lang": "JPN",
+    "genre": "Anime",
+    "trailer": "https://www.youtube.com/embed/U-F5fb9BBsA?si=TRh_3PRgVk0oKa4d",
+    "download": ""
+    }, 
+    {
+    "id": 41,
+    "title": "To the Hashira Training",
+    "image":"https://i.pinimg.com/736x/8f/a3/80/8fa38075d7fdf78b73a5f06c9d3b0a44.jpg",
+    "rate": 9.3,
+    "decr": "Tanjiro undergoes rigorous training with the Stone Hashira, Himejima, in his quest to become a Hashira. Meanwhile, Muzan continues to search for Nezuko and Ubuyashiki.",
+    "stream": "",
+    "lang": "JPN",
+    "genre": "Anime",
+    "trailer": "https://www.youtube.com/embed/r_1_OngdS0k?si=BOhtGROsj2xmYiJW",
+    "download": ""
+    },                  
     {
     "id": 1,
     "title": "Hitmen 2023",
@@ -239,6 +344,7 @@
     "stream": "https://uqload.io/embed-clyxa4rgs0yz.html",
     "lang": "EN",
     "genre": "action",
+    "trailer": "https://www.youtube.com/embed/haFKTG00Z8A?si=TcjmNtNDIEZu666h",
     "download": "https://filelions.live/d/yfeamhvozrrf"
     },
     {
@@ -250,149 +356,7 @@
     "stream": "https://embedwish.com/e//310yqd3cgww6",
     "lang": "EN",
     "genre": "action",
+    "trailer": "https://www.youtube.com/embed/bXuN0Ic73Kk?si=8GAuCA1Aw2-vjV5I",
     "download": "https://filelions.live/d/bmy24iqvlhke"
-    },
-    {
-    "id": 3 ,
-    "title": "Sons of Summer 2023",
-    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFrONOdeAguZGX8swPIPqWSF_xEb6S08d1qDIu9s0e_jOYzASr-pWviZdCJAMG3oa4YWg&usqp=CAU",
-    "rate": 3.8,
-    "decr": "Four surfing sons plan a tribute 'surfari' to a small beach town for one of their fathers murdered three decades earlier. But some road trips are to die for",
-    "stream": "https://embedwish.com/e//ob322p31xusk",
-    "lang": "EN",
-    "genre": "action",
-    "download": "https://filelions.live/d/hsm10edk3rxn"
-    },
-    {
-    "id": 4 ,
-    "title": "Skin Trade 2014",
-    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaec2l5zl6C2gW3qTE2Cw9PdlD2RX_uqq3Vn03MlDw01Z3fYyv8SZoqv41MUcNvJGGQWo&usqp=CAU",
-    "rate": 5.6,
-    "decr": "After his family is killed by a Serbian gangster with international interests, NYC detective Nick goes to S.E. Asia and teams up with a Thai detective to get revenge and destroy the syndicates human trafficking network.",
-    "stream": "https://fviplions.com/v/g73t362prpmp",
-    "lang": "EN",
-    "genre": "action",
-    "download": "https://fileved.cam/d/8f73is07erhy.html"
-    },
-    {
-    "id": 5,
-    "title": "Punisher: War Zone 2008",
-    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYwZUyWlwrhdsoQkOHXhdf83XWCfssjNB50AkvMMnk54zKQFTPTCk_6gWbHjYqn32BvBs&usqp=CAU",
-    "rate": 5.9,
-    "decr": "Frank Castle, known as the Punisher, ruthlessly demolishes organized crime, but it starts an even bigger war.",
-    "stream": "https://fviplions.com/v/jomnfqzmv4um",
-    "lang": "EN",
-    "genre": "action",
-    "download": "https://fileved.cam/d/hnpxloimmflx.html"
-    },
-    {
-    "id": 6,
-    "title": "Honey, I Shrunk the Kids 1989",
-    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnKtS_kSTQbw-JZlMiSc5gwPhdVIGsqDfeu55CRUF42KE97FnOtKTYyB0W_mW10Pt4U-w&usqp=CAU",
-    "rate": 6.4,
-    "decr": "The scientist father of a teenage girl and boy accidentally shrinks his and two other neighborhood teens to the size of insects. Now the teens must fight diminutive dangers as the father searches for them.",
-    "stream": "https://fviplions.com/v/nwy1j66mqnnp",
-    "lang": "EN",
-    "genre": "comedy",
-    "download": "https://fileved.cam/d/0gf81ghtia66.html"
-    },
-    {
-    "id": 7,
-    "title": "ruce Almighty 2003",
-    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy4ca-QA8x_MHWmzxbxirpLAutw_t6zMm37FFKDmlY-adsCn47mbSyiNkb16gq28zNsus&usqp=CAU",
-    "rate": 6.8,
-    "decr": "A whiny news reporter is given the chance to step into God's shoes.",
-    "stream": "https://filelions.online/v/pn6fne74w0uy",
-    "lang": "EN",
-    "genre": "comedy",
-    "download": "https://filelions.online/d/pn6fne74w0uy"
-    },
-    {
-    "id": 8,
-    "title": "She Came to Me 2023",
-    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoKzyDP5E_8uraEjIJ75KkeKEnN5XEoM4vHbQFl6cQ0eQE8N4jJ5RclUbUKDybHfb4zgY&usqp=CAU",
-    "rate": 6.4,
-    "decr": "A composer who suffers writer's block rediscovers his passion after an adventurous one-night stand.",
-    "stream": "https://fviplions.com/v/mk7cbup0578k",
-    "lang": "EN",
-    "genre": "comedy",
-    "download": "https://fileved.cam/d/vdcxvzrj5i7e.html"
-    },
-    {
-    "id": 9,
-    "title": "اتنين للايجار",
-    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7EiSQO7wleN9xvN3DHa9tDG7dvLpguybhk45nth9DYTf7qJFqqsRHHA4sH8ViRMz7wxE&usqp=CAU",
-    "rate": 3.5,
-    "decr": "في إطار كوميدي، يبحث العاطلان صفيحة وحمادة عن فرصة عمل مناسبة لكسب قوت يومهما، ويقرران عرض أنفسهم للإيجار على من يدفع لهما لتلبية مطالبه كوسيلة لكسب الرزق.",
-    "stream": "https://filelions.online/v/63e6bxz2v0hl",
-    "lang": "AR",
-    "genre": "comedy",
-    "download": "https://filelions.online/d/63e6bxz2v0hl"
-    },
-    {
-    "id": 10,
-    "title": "ابن الحاج احمد",
-    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHxoKIvwz4dhx5175-B8zGvfHRM-hSuxqNew_wK0YwhQGAb930Cx7UrYteNqkhf7n22LQ&usqp=CAU",
-    "rate": 5,
-    "decr": "يتورط شاب يدعى (أحمد) يعمل بائعًا بمتجر بقالة والده في متاعب جمة، بعدما يجد نفسه في مواجهة إحدى العصابات الخطيرة، مما يحتم عليه التعاون مع الشابة (نبيلة) والتصدي للخطر معًا.",
-    "stream": "https://fviplions.com/v/1gi7av7fdhzm",
-    "lang": "AR",
-    "genre": "comedy",
-    "download": "https://fileved.cam/d/bbeb8bdd6jz7.html"
-    },
-    {
-    "id": 11,
-    "title": "العميل صفر",
-    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCNMOVxqBJkKaQkvXpCi77xKAmR4o-vOGAvdIgnH4mTkZAGXZxobSZg9AIv68jtjYIEIM&usqp=CAU",
-    "rate": 5.2,
-    "decr": "تدور أحداث الفيلم في إطار كوميدي حول فرد أمن يحلم أن يكون بطلاً مثل جيمس بوند؛ لكنه يفشل في ذلك ويتعرض للعديد من المواقف الكوميدية.",
-    "stream": "https://filelions.online/v/vfcfxn9brwrg",
-    "lang": "AR",
-    "genre": "comedy",
-    "download": "https://filelions.online/v/vfcfxn9brwrg"
-    },
-    {
-    "id": 12 ,
-    "title": "البعبع",
-    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn7rDxadKDInX7LhN9XM9Z-UtZC5cgxWjWvOxQ5eoQR_5pzAvp4EU5ADcsSqMKpe883BE&usqp=CAU",
-    "rate": 4,
-    "decr": "تدور أحداث الفيلم في يوم واحد حول سلطان، وهو مجرم مخضرم تم الإفراج عنه من السجن، ليقوم بعدها بعملية تسليم آثار لصالح أحد التجار، لكنه يغدر بهم ويستولي على الآثار والأموال ويبلغ عنهم الشرطة، ويستعد للسفر خارج مصر، إلا أنه يفاجأ بظهور أبنائه الاثنان في منزلة القديم واللذان لم يكن يعلم عنهما شيء منذ ولادتهما، فيضطر الهروب بهما وسط هجوم إحدى العصابات عليه.",
-    "stream": "https://filelions.live/v/b1ynpmkuw35l",
-    "lang": "AR",
-    "genre": "action",
-    "download": "https://filelions.live/d/b1ynpmkuw35l"
-    },
-    {
-    "id": 13 ,
-    "title": "هارلي",
-    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkNnug-bq0PpS4a5H6njDc_rgNU-yU7t2TOMJxjwZrwCxirvktz9kRk3tC1pcNqlUykzk&usqp=CAU",
-    "rate": 3.8,
-    "decr": "يعود هارلي مهندس الميكانيكا من الخليج مع عائلته لاستكمال دراسته بمصر، ويقوده ذكائه وسرعته إلى العمل مع إحدى العصابات، ويصبح العنصر الأبرز والأقرب إلى زعيم العصابة",
-    "stream": "https://streamwish.to/e//udmhalehqrsu",
-    "lang": "AR",
-    "genre": "action",
-    "download": "https://streamwish.to/f//udmhalehqrsu"
-    },
-    {
-    "id": 14,
-    "title": "كيرة والجن",
-    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThgc7PQMUO-bK5i4q_-w1VB6m6uyCKXYd4QN7U6QExWqov9LY7NHcQcAROW6v4uo2_kvY&usqp=CAU",
-    "rate": 7.9,
-    "decr": "يرصد الفيلم حالة الغليان التي كانت يموج بها الشارع المصري بالتزامن مع اندلاع ثورة 1919، وهو الحدث الكبير الذي يوحد مصائر أحمد عبدالحي كيرة وعبدالقادر الجن ليشتركا في النضال ضد المحتل اﻹنجليزي",
-    "stream": "https://filelions.to/v/2j084znm7qsw",
-    "lang": "AR",
-    "genre": "action",
-    "download": "https://filelions.to/d/2j084znm7qsw"
-    },
-    {
-    "id": 15,
-    "title": "الهيبة",
-    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWCwt6t34Y92WCZ01IWiw3P3d_q-ySkQ6uSPg3XULbtDlsU-aZW94KODxiLKj913fl7cY&usqp=CAU",
-    "rate": 5.3,
-    "decr": "يكتشف جبل ان عدوه القديم والمسؤول عن اغتيال والده وظهور داعش بالهيبة، ناظم العالي والملقب بالختيار، ما زال على قيد الحياة. يقرر جبل ورجاله السفر الى اسطنبول وبلغاريا لاجل تصفية الحساب القديم",
-    "stream": "https://uqload.com/embed-b2w4ta0t8p5c.html",
-    "lang": "AR",
-    "genre": "action",
-    "download": "https://uptobox.com/k1b9q0n4co9q"
     }
 ]

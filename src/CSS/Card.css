@@ -25,20 +25,23 @@ img {
 }
 /* Styles for the title within the card */
 .title {
-    font-size: 28px; /* Set title font size */
+    font-size: 28px;
+    background: transparent; /* Set title font size */
 }
 /* Additional styles for the card element */
 .card {
     margin-bottom: 50px; /* Add margin to the bottom of the card */
 }
-* Styles for the rate element */
+
 .rate {
     margin-top: -20px; /* Move the rate element up by 20px */
-    margin-bottom: -5px; /* Move the rate element down by 5px */
+    margin-bottom: -5px;
+    background: transparent; /* Move the rate element down by 5px */
 }
 /* Styles for the button with class btnn */
 .btnn {
-    color: red; /* Set button text color to red */
+    color: red;
+    background: transparent; /* Set button text color to red */
     text-decoration: none; /* Remove default text decoration */
 }
 /* Hover styles for the button */
@@ -46,4 +49,13 @@ img {
     color: #C70039; /* Change text color on hover to a specific color */
     text-decoration: underline; /* Underline text on hover */
     cursor: pointer; /* Change cursor to pointer on hover */
+}
+.decr{
+    background: transparent;
+}
+.genre{
+    background: transparent;
+}
+.Lan{
+    background: transparent;
 }
