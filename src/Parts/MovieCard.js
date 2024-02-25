@@ -14,7 +14,7 @@ function MovieCard({data,rangeValue,titleValue,setGetDataJson }) {
   }
   // Calling the alertRate function with rangeValue and maximumRate
   alertRate(rangeValue,maximumRate)
-
+  
   setGetDataJson(data)
   // Returning the JSX for rendering MovieCard component
   return (
@@ -29,11 +29,7 @@ function MovieCard({data,rangeValue,titleValue,setGetDataJson }) {
                 <p className="genre"><b>Genre:</b> {film.genre}</p>
                 <p className="rate"><b>Rate:</b> {film.rate}</p>
                 <a href={film.download} className='btnn'>Download</a> <br />
-                <a className='btnn'>
-  <Link to={`/${film.id}`}>
-    Watch Now
-  </Link>
-</a>
+                <a className='btnn'><Link to={`/${film.id}`}>Watch Now</Link></a>
                 <p className="Lan"><b>LAnguage:</b> {film.lang}</p>
             </div>
         </div>

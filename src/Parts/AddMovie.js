@@ -81,6 +81,7 @@ function AddMovie({ setNewData, data, addTheMovie }) {
               </button>
             </div>
           </> : null}
+          
       </div>
     </>
   );

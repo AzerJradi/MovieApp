@@ -25,6 +25,7 @@ function App() {
   const [getDataJson,setGetDataJson] = useState([])
   return (
     <>
+    setRangeValue
     {/* Navigation component with filtering options */}
     <MyNav setRangeValue={setRangeValue} setTitleValue={setTitleValue} rangeValue={rangeValue} />
     <Routes>

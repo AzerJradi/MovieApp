@@ -358,5 +358,53 @@
     "genre": "action",
     "trailer": "https://www.youtube.com/embed/bXuN0Ic73Kk?si=8GAuCA1Aw2-vjV5I",
     "download": "https://filelions.live/d/bmy24iqvlhke"
-    }
+    },
+    {
+        "id": 51, 
+        "title": "La La Land ",
+        "image":"https://i.pinimg.com/564x/a3/fe/19/a3fe1953058d51294b8c061a9f76ead7.jpg",
+        "rate": 8,
+        "decr": "While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations for the future",
+        "stream": "",
+        "lang": "EN",
+        "genre": "comedy",
+        "trailer": "https://www.youtube.com/embed/je0aAf2f8XQ?si=0vLX9t8xSorNDxHA",
+        "download": ""
+        },
+    {
+        "id": 52, 
+        "title": "Fear Street  ",
+        "image":"https://i.pinimg.com/564x/89/49/c2/8949c27e42d3eaa711cebab0a68ac32e.jpg",
+        "rate": 8.5 ,
+        "decr": "A circle of teenage friends accidentally encounter the ancient evil responsible for a series of brutal murders that have plagued their town for over 300 years. Welcome to Shadyside",
+        "stream": "",
+        "lang": "EN",
+        "genre": "Drama",
+        "trailer": "https://www.youtube.com/embed/UyUuzCGblqc?si=RpOmHR2_02RXmjlT",
+        "download": ""
+        },
+    {
+        "id": 53, 
+        "title": "Fear Street: Part Two - 1978 ",
+        "image":"https://i.pinimg.com/564x/1b/5f/0b/1b5f0b2a09f57259719c715b886cefc9.jpg",
+        "rate": 8.5 ,
+        "decr": "Shadyside, 1978. School's out for summer and the activities at Camp Nightwing are about to begin. But when another Shadysider is possessed with the urge to kill, the fun in the sun becomes a gruesome fight for survival",
+        "stream": "",
+        "lang": "EN",
+        "genre": "Drama",
+        "trailer": "https://www.youtube.com/embed/eR2KSY1fipo?si=3PzN8iSQyJUdm4DB",
+        "download": ""
+        },
+        {
+        "id": 54,
+        "title": "Fear Street: Part Three - 1666",
+        "image":"https://i.pinimg.com/564x/1a/5d/c2/1a5dc2781b3664ea81387cb5eedf5f32.jpg",
+        "rate": 6.6,
+        "decr": "The origins of Sarah Fier's curse are finally revealed as history comes full circle on a night that changes the lives of Shadysiders forever.",
+        "stream": "",
+        "lang": "EN",
+        "genre": "Drama",
+        "trailer": "https://www.youtube.com/embed/dj3CXY8rKuY?si=Gt8Rq6tzXcKmZdG3",
+        "download": ""
+        }
 ]
